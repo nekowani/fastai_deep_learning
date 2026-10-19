@@ -1,0 +1,8 @@
+.venv/
+.idea/
+__pycache__/
+*.pkl
+*.jpg
+*.png
+animals/
+bird_or_not/
